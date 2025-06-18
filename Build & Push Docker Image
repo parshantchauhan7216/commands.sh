@@ -1,0 +1,2 @@
+docker build -t yourdockerhubusername/nginx-k8s-demo:v1 .
+docker push yourdockerhubusername/nginx-k8s-demo:v1
